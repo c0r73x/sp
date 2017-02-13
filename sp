@@ -194,7 +194,7 @@ while getopts "i:v:hl" c; do
             ;;
         h)
             help_message >&2
-            exit 1
+            exit 0
             ;;
         *)
             help_message >&2
