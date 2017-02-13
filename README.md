@@ -1,3 +1,4 @@
+```
 Usage: ./sp [OPTIONS] [SKELETON] [DIRECTORY]
 
 Options:
@@ -8,3 +9,4 @@ Options:
             Example file:
               PROJECT_NAME='project'
               PROJECT_VERSION='1.0'
+```
